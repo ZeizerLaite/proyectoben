@@ -7,8 +7,10 @@ template <class T>
 class sorting 
 {
     public:
-    void quickSort(std::vector<T>);
-    
+    std::vector<t> quickSort(std::vector<T>&)
+    {
+        
+    }
 };
 
 
